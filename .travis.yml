@@ -39,6 +39,7 @@ deploy:
     on:
       repo: WebGoat/WebGoat
       tags: true
+      
 env:
   global:
   #Docker login
